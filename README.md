@@ -1,7 +1,7 @@
 # Resources for Financial Engineering
 
 ## Books
-* Options Futures and Other Derivatives [][1] [][2] [][12] [][13] [][15]
+* Options Futures and Other Derivatives <sup>1</sup> <sup>2</sup> [][12] [][13] [][15]
 * Stochastic Calculus for Finance II [1] [23]
 * Monte Carlo Methods in Financial Engineering [1] [23]
 * Modelling Fixed Income Securities and Interest Rate Options [1]
@@ -70,7 +70,7 @@
 Start by reading *Trading and Exchanges: Market Microstructure for Practitioners* and *Options, Futures, and Derivatives*, followed possibly by *Algorithmic Trading and DMA*.
     
 ## Sources
-* [1] https://news.ycombinator.com/item?id=3178313
+* <sup>1</sup> https://news.ycombinator.com/item?id=3178313
 * [2] https://news.ycombinator.com/item?id=3179810
 * [3] https://news.ycombinator.com/item?id=3179823
 * [4] https://news.ycombinator.com/item?id=3179823
