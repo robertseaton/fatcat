@@ -1,7 +1,7 @@
 # Resources for Financial Engineering
 
 ## Books
-* Options Futures and Other Derivatives [1] [2] [12] [13] [15]
+* Options Futures and Other Derivatives [][1] [][2] [][12] [][13] [][15]
 * Stochastic Calculus for Finance II [1] [23]
 * Monte Carlo Methods in Financial Engineering [1] [23]
 * Modelling Fixed Income Securities and Interest Rate Options [1]
